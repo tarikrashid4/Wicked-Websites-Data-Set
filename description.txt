@@ -3,5 +3,5 @@ This research data was collected from 160 websites. Out of these 160 websites we
 The corpus was proposed and prepared which consists of 1283 documents belonging to 2 different categories. 
 Here we collected the data wicked and non-wicked documents of different lengths that belongs to 2 categories, the categories are (yes, no). 
 
-Cite this paper as:
+Citation:
 Rashid T.A., Mohamad S.O. (2016) Enhancement of Detecting Wicked Website Through Intelligent Methods. In: Mueller P., Thampi S., Alam Bhuiyan M., Ko R., Doss R., Alcaraz Calero J. (eds) Security in Computing and Communications. SSCC 2016. Communications in Computer and Information Science, vol 625. Springer, Singapore.
